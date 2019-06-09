@@ -1,0 +1,3 @@
+C:/Online/Gdrive/Office/UVA/12577 - Hajj-e-Akbar/C/cmake-build-debug/CMakeFiles/C.dir
+C:/Online/Gdrive/Office/UVA/12577 - Hajj-e-Akbar/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Online/Gdrive/Office/UVA/12577 - Hajj-e-Akbar/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

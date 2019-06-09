@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Online/Gdrive/Office/UVA/12577 - Hajj-e-Akbar/C/main.cpp
+iostream
+-
+stdio.h
+-
+cstring
+-
+
