@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Online/Gdrive/Office/UVA/UVA-100 The 3n + 1 problem/Cpp/main.cpp
+iostream
+-
+stdio.h
+-
+
