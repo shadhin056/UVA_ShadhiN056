@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Gdrive/ProGramMinG/UVA/136 - Ugly Numbers/C/main.cpp
+stdio.h
+-
+iostream
+-
+
